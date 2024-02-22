@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Josue </title>
+</head>
+<body>
+    <h1>DATOS</h1>
+    <h2>Datos Personales:</h2>
+    <Ul>
+        <li>Nombre completo: Monserrat Martinez Serrano </li>
+        <li>Fecha de Nacimiento: 15 de marzo 2001</li>
+        <li>Lugar de Nacimiento: Mexico</li>
+    </Ul>
+</body>
+</html>
+
+body {
+    background-color: hsl(214, 68%, 62%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #333333;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: hsl(200, 15%, 55%);
+    color: hsl(184, 52%, 64%);
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: hsl(200, 15%, 75%);
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
